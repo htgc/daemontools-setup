@@ -1,0 +1,7 @@
+daemontools-setup.sh
+
+daemontools-setup.sh commands following process:
+ - Downloading daemontools-0.76.tar.gz
+ - Patching for daemon tools
+ - Make and install
+ - Create upstart script if needed
